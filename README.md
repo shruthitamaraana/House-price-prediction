@@ -7,7 +7,6 @@
 
 A Streamlit web app to predict median house prices in California using machine learning regression models. Users can input house features via sliders and get instant predictions.
 
-![App Screenshot](![Screenshot 2025-03-11 222534](https://github.com/user-attachments/assets/84b28934-1370-4374-b617-ec60e29bb029))
 
 
 # Features
