@@ -64,8 +64,7 @@ california-house-price-prediction/
 - For better accuracy, use the Random Forest model (default).
 
 # Live Demo
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app/](https://house-price-prediction-phwzh4zinzs2jw9qu3dkti.streamlit.app/))
+https://house-price-prediction-phwzh4zinzs2jw9qu3dkti.streamlit.app/
 
 # Acknowledgments
 - Dataset: [scikit-learn California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
